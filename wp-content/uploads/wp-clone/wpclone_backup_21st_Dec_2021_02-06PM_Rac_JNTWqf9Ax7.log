@@ -1,0 +1,18 @@
+Tuesday, 21-Dec-2021 14:06:40 - backup started
+Tuesday, 21-Dec-2021 14:06:40 - wp version     : 5.8.2
+Tuesday, 21-Dec-2021 14:06:40 - php version    : 7.4.24
+Tuesday, 21-Dec-2021 14:06:40 - mysql version  : 5.6.47.0
+Tuesday, 21-Dec-2021 14:06:40 - memory limit   : 1024M
+Tuesday, 21-Dec-2021 14:06:40 - execution time : 600
+Tuesday, 21-Dec-2021 14:06:40 - mysql timeout  : 
+Tuesday, 21-Dec-2021 14:06:40 - socket timeout : 600
+Tuesday, 21-Dec-2021 14:06:40 - files larger than 25 MB will be excluded from the backup
+Tuesday, 21-Dec-2021 14:06:40 - generating file list
+Tuesday, 21-Dec-2021 14:06:40 - file skipped, file is larger than 25 MB - "**SITE-ROOT**/wp-content/ai1wm-backups/rack-centre.com-20211220-150255-d88gio.wpress"  880.71 MB
+Tuesday, 21-Dec-2021 14:06:40 - file skipped, file is larger than 25 MB - "**SITE-ROOT**/wp-content/ai1wm-backups/rack-centre.com-20211220-163936-zvdsnt.wpress"  880.73 MB
+Tuesday, 21-Dec-2021 14:06:57 - 2 files were excluded from the backup
+Tuesday, 21-Dec-2021 14:06:57 - number of files to include in the archive is 19357, and their uncompressed size is 520.74 MB
+Tuesday, 21-Dec-2021 14:06:57 - finished generating file list
+Tuesday, 21-Dec-2021 14:06:57 - database backup started
+Tuesday, 21-Dec-2021 14:06:57 - backing up tables with "wp_" prefix
+Tuesday, 21-Dec-2021 14:06:57 - number of tables to backup - 68
